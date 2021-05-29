@@ -1,1 +1,1 @@
-# MySensors-Modules
+Collection of Modules I have created for mysensors on my home automation network
